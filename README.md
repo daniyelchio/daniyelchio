@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyelchio&langs_count=10&layout=donut-vertical)](https://github.com/daniyelchio/github-readme-stats)
 
-[![Spotify](https://j7ab5xao1mz5bcvded4sfxvma.vercel.app/api/spotify)](https://open.spotify.com/user/j7ab5xao1mz5bcvded4sfxvma)
+[![Spotify]([https://j7ab5xao1mz5bcvded4sfxvma.vercel.app/api/spotify](https://spotify-now-playing-daniyels-projects.vercel.app/))](https://open.spotify.com/user/j7ab5xao1mz5bcvded4sfxvma)
 
 
 <!--
