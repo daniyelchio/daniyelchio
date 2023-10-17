@@ -5,7 +5,7 @@
 </div>
 
 &nbsp;<div align="center">
-  [![Spotify](https://spotify-now-playing-daniyels-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/denial)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j7ab5xao1mz5bcvded4sfxvma&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=j7ab5xao1mz5bcvded4sfxvma&redirect=true)
 </div>
 
 &nbsp;<div align="center">
