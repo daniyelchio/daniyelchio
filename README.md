@@ -5,7 +5,7 @@
 </div>
 
 &nbsp;<div align="center">
-  [![Spotify](https://spotify-now-playing-daniyels-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/denial)
+  [![Spotify](spotify-now-playing-wheat-one.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/denial)
 </div>
 
 &nbsp;<div align="center">
