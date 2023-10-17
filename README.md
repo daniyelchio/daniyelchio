@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-
+img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Tsvetoslav88&theme=radical&show_icons=true&include_all_commits=true&hide_border=true"
 
 &nbsp;<div style="display: flex; flex-direction: row;">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyelchio&langs_count=10&layout=donut-vertical)](https://github.com/daniyelchio/github-readme-stats)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j7ab5xao1mz5bcvded4sfxvma&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=j7ab5xao1mz5bcvded4sfxvma&redirect=true)
+</div>
+
+&nbsp;<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyelchio&langs_count=10&layout=donut-vertical)](https://github.com/daniyelchio/github-readme-stats)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j7ab5xao1mz5bcvded4sfxvma&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=j7ab5xao1mz5bcvded4sfxvma&redirect=true)
 </div>
