@@ -1,6 +1,8 @@
 ### Hi there 👋
+
 &nbsp;<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyelchio&langs_count=10&layout=donut-vertical)](https://github.com/daniyelchio/github-readme-stats)
+</div>
 
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-daniyels-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/denial)
