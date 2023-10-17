@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img align="left" src="https://stars.ncp.nathanferns.xyz/daniyelchio/image?allow_forks=true&bgcolor=adebed&textcolor=4b989c&titlecolor=3e9194&excluded_languages=CSS,PHP"/>
 <!--
 **daniyelchio/daniyelchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
