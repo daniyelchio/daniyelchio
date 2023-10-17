@@ -4,10 +4,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyelchio&langs_count=10&layout=donut-vertical)](https://github.com/daniyelchio/github-readme-stats)
 </div>
 
-&nbsp;<div align="center">
-  [![Spotify](https://spotify-now-playing-wheat-one.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/denial)
-</div>
+**Now Playing** on Spotify
 
+<a href="https://spotify-now-playing-daniyels-projects.vercel.app/now-playing?open">
+    <img src="https://now-playing-profile.denial.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+</a>
 &nbsp;<div align="center">
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/daniyelcheah)
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://daniyelkook@gmail.com/)
