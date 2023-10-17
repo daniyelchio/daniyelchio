@@ -1,6 +1,9 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyelchio&langs_count=10&layout=donut-vertical)](https://github.com/daniyelchio/github-readme-stats)
 
+[![Spotify](https://j7ab5xao1mz5bcvded4sfxvma.vercel.app/api/spotify)](https://open.spotify.com/user/j7ab5xao1mz5bcvded4sfxvma)
+
+
 <!--
 **daniyelchio/daniyelchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
